@@ -15,6 +15,8 @@ git clone https://github.com/Naboska/vite-react-ssg-example.git
 A minimally configured application for SSG (Static Site Generation) applications using React and the Vite bundler.
 
 
+Application page structure:
+
 ```
 pages/
 ├── index.tsx
@@ -26,7 +28,6 @@ pages/
 
 
 After building, you will have the following pages:
-
 
 
 ```
